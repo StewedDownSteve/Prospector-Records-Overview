@@ -1,5 +1,8 @@
 # Prospector Records Website
 
+## Live Demo 
+[demo link](https://prospector-records.netlify.app/)
+
 ## About
 This is a responsive website built for **Prospector Records**, a local record store that was relocating and needed a new online presence. The site serves as a clean, "brochure-type" website to showcase their services, location, hours, and history while guiding users to their physical store or online Discogs shop. 
 
