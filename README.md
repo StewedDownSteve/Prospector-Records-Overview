@@ -1,6 +1,8 @@
 # Prospector Records Website
 
-## Live Demo 
+*Currently awaiting domaine problems with Squarespace, redoing the website for updated business photos*
+
+## Live Website 
 [demo link](https://prospector-records.netlify.app/)
 
 ## About
